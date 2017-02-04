@@ -1,6 +1,9 @@
 # chatbot
 
-Alfred is still in training phase.Very soon i'll expose a web interface to chat with alfred.I'll also attach a screen shot of my chat very soon.Clone the repo and install tensorflow,skilearn,numpy etc and run trainer.py to train Alfred
+Alfred is trained on publicly available data.He was trained on 60k conversations and 8000 words.He is not that smart May be with more data and feedback he can be trained better.Please email me @prathyush.manoharan1@gmail.com if you want a check point file of the tensor graph.Here are the screen shots of my chat with Alfred
+
+https://github.com/prathyush90/Alfred/blob/master/Screen%20Shot%202017-02-05%20at%201.49.46%20AM.png
+
 
 Data sets Used :
 
