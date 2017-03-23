@@ -2,7 +2,7 @@
 
 Alfred is trained on publicly available data.He was trained on 60k conversations and 8000 words.He is not that smart May be with more data and feedback he can be trained better.Please email me @prathyush.manoharan1@gmail.com if you want a check point file of the tensor graph.Here are the screen shots of my chat with Alfred
 
-![Screenshot] (Screen%20Shot%202017-02-05%20at%201.49.46%20AM.png)<br>
+![Screenshot] (Screen Shot 2017-02-05 at 1.49.46 AM.png)<br>
 
 ![Screenshot] (Screen%20Shot%202017-02-05%20at%201.49.54%20AM.png)<br>
 
